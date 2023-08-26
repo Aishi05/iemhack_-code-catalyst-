@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Simple Webpage</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>MADD(Mixed Anxiety Depression Disorder)</h1>
+<Img src="aishi.jpeg">
+</Img>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>About Me</h2>
+        <p>ANYTIME FEEL FREE TO CONTACT US.</p>
+    </main>
+    <footer>
+        <p>&copy; 2023 MADD</p>
+    </footer>
+</body>
+</html>
