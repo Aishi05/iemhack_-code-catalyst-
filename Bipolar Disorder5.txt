@@ -1,13 +1,27 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
+
 <titile></title>
+
 <link rel="stylesheet" type ="text/css"href="styles.css">
+
 </head>
+
 <body bgcolor="Black", Text="grey">
+
 <header>
+
 <h1><b><u>Bipolar Disorder</b></u></h1>
+
 </header>
-<p> Involves periods of depression and periods of mania or elevated mood, often accompanied by impulsive behavior</p>
+<Img src="Abir3.jpg">
+</Img>
+
+<p> Involves periods of depression and periods of mania or elevated mood, often accompanied by impulsive behavior.Bipolar disorder involves extreme mood swings. During depressive episodes, individuals experience the same symptoms as major depression. Manic episodes, on the other hand, involve elevated mood, high energy, decreased need for sleep, racing thoughts, and risky behavior like spending sprees or reckless driving. Bipolar disorder involves extreme mood swings. Depressive episodes are marked by low mood, while manic episodes include heightened energy, impulsivity, and elevated mood.</p>
+
 </body>
+
 </html>
