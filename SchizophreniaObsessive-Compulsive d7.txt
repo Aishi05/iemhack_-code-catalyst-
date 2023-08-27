@@ -1,12 +1,28 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
+
 <titile></title>
+
 <link rel="stylesheet" type ="text/css"href="styles.css">
+
 </head>
+
 <body bgcolor= "yellow", Text="black">
+
 <header>
-<H1><b><u>SchizophreniaObsessive-Compulsive disorder</u></u></h1>
-<p> Involves intrusive, unwanted thoughts (obsessions) and repetitive behaviors or mental acts (compulsions) aimed at reducing anxiety.</p>
+</Header>
+
+<H1><b><u>Obsessive-Compulsive disorder</u></u></h1>
+<Img src="Abir5.jpg">
+</Img>
+
+
+<p> Involves intrusive, unwanted thoughts (obsessions) and repetitive behaviors or mental acts (compulsions) aimed at reducing anxiety.5. *Obsessive-Compulsive Disorder (OCD):* OCD involves persistent, unwanted thoughts (obsessions) that cause anxiety, and to relieve this anxiety, individuals engage in repetitive behaviors or mental acts (compulsions). For example, someone might obsessively fear germs and wash their hands compulsively to reduce the anxiety.OCD leads to intrusive thoughts (obsessions) that cause anxiety. To alleviate the anxiety, individuals perform repetitive behaviors or mental acts (compulsions).
+</p>
+
 </body>
+
 <html>
