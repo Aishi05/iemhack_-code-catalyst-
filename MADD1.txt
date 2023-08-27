@@ -1,28 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Simple Webpage</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+<titile></title>
+<link rel="stylesheet" type ="text/css"href="styles.css">
 </head>
-<body>
-    <header>
-        <h1>MADD(Mixed Anxiety Depression Disorder)</h1>
-<Img src="C:\Users\abhir\Downloads\MADD.COM.jpg">
+<body bgcolor="Red", Text="Black">
+<header>
+<h1>MADD(Mixed Anxiety Depressiom Disorders)</h1>
+<Img src="Abir.jpg">
 </Img>
-    </header>
-    <nav>
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
-    </nav>
-    <main>
-        <h2>About Me</h2>
-        <p>ANYTIME FEEL FREE TO CONTACT US.</p>
-    </main>
-    <footer>
-        <p>&copy; 2023 MADD</p>
-    </footer>
+</header>
+<h2 align="Left">Digital Therapeutics</h2>
+<li><a href="Abir2.html"><u>problems facing</u></a>
+<nav>
+</nav>
+<main>
+<h3>About Me</h3>
+<p>Anytime Feel Free To Contact us.</p>
+</main>
+<footer>
+<p>&copy;2023 MADD</p>
+</footer>
 </body>
 </html>
