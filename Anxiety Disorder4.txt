@@ -1,2 +1,13 @@
-Anxiety Disorder
-Includes conditions like generalized anxiety disorder, panic disorder, and social anxiety disorder, characterized by excessive worry, fear, and physical symptoms like sweating or rapid heartbeat.
+<!DOCTYPE html>
+<html>
+<head>
+<titile></title>
+<link rel="stylesheet" type ="text/css"href="styles.css">
+</head>
+<body bgcolor="Green", Text="hot pink">
+<header>
+<h1><b><u>Anxiety Disorder</b></u></h1>
+</header>
+<p> Includes conditions like generalized anxiety disorder, panic disorder, and social anxiety disorder, characterized by excessive worry, fear, and physical symptoms like sweating or rapid heartbeat.</p>
+</body>
+</html>
