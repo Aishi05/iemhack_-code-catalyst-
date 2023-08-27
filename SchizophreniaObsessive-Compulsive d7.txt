@@ -1,2 +1,12 @@
-SchizophreniaObsessive-Compulsive disorder
-Involves intrusive, unwanted thoughts (obsessions) and repetitive behaviors or mental acts (compulsions) aimed at reducing anxiety.
+<!DOCTYPE html>
+<html>
+<head>
+<titile></title>
+<link rel="stylesheet" type ="text/css"href="styles.css">
+</head>
+<body bgcolor= "yellow", Text="black">
+<header>
+<H1><b><u>SchizophreniaObsessive-Compulsive disorder</u></u></h1>
+<p> Involves intrusive, unwanted thoughts (obsessions) and repetitive behaviors or mental acts (compulsions) aimed at reducing anxiety.</p>
+</body>
+<html>
