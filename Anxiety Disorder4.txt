@@ -1,13 +1,27 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
+
 <titile></title>
+
 <link rel="stylesheet" type ="text/css"href="styles.css">
+
 </head>
+
 <body bgcolor="Green", Text="hot pink">
+
 <header>
+
 <h1><b><u>Anxiety Disorder</b></u></h1>
+
 </header>
-<p> Includes conditions like generalized anxiety disorder, panic disorder, and social anxiety disorder, characterized by excessive worry, fear, and physical symptoms like sweating or rapid heartbeat.</p>
+<Img src="Abir2.jpg">
+</Img>
+
+<p> Includes conditions like generalized anxiety disorder, panic disorder, and social anxiety disorder, characterized by excessive worry, fear, and physical symptoms like sweating or rapid heartbeat.Anxiety disorders are characterized by excessive and irrational fear or worry. Generalized Anxiety Disorder (GAD) involves chronic worrying about various aspects of life. Panic Disorder is marked by sudden and intense panic attacks, which include symptoms like rapid heartbeat, shortness of breath, and a sense of impending doom. Social Anxiety Disorder involves an intense fear of social situations, leading to avoidance of them. ASD is a developmental disorder that affects social interaction, communication, and behavior. People with ASD might struggle to understand social cues, have difficulty with conversation and nonverbal communication, and engage in repetitive behaviors or have intense interests.</p>
+
 </body>
+
 </html>
