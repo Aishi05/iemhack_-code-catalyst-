@@ -1,2 +1,12 @@
-Boderline Personality Disorder
-Borderline Personality Disorder (BPD):* Marked by unstable relationships, self-image, and emotions, often involving impulsive and self-destructive behaviors.
+<!DOCTYPE html>
+<html>
+<head>
+<titile></title>
+<link rel="stylesheet" type ="text/css"href="styles.css">
+</head>
+<body bgcolor= "cyan", Text="green">
+<header>
+<H1><b><u>Boderline Personality Disorder</b></u></h1>
+<p>Borderline Personality Disorder (BPD):* Marked by unstable relationships, self-image, and emotions, often involving impulsive and self-destructive behaviors. </p>
+</body>
+<html>
