@@ -1,14 +1,27 @@
 <!DOCTYPE html>
-<html>
-<head>
-<titile></title>
-<link rel="stylesheet" type ="text/css"href="styles.css">
-</head>
-<body bgcolor="blue", Text="white">
-<header>
-<h1><b><u>Depression</b></u></h1>
-</header>
-<p>Persistent low mood, lack of interest or pleasure in activities, changes in sleep and appetite, feelings of worthlessness or guilt.</p>
-</body>
-</html>
 
+<html>
+
+<head>
+
+<titile></title>
+
+<link rel="stylesheet" type ="text/css"href="styles.css">
+
+</head>
+
+<body bgcolor="blue", Text="white">
+
+<header>
+
+<h1><b><u>Depression</b></u></h1>
+
+</header>
+<Img src="Abir1.jpg">
+</Img>
+
+<p>Persistent low mood, lack of interest or pleasure in activities, changes in sleep and appetite, feelings of worthlessness or guilt. Depression is a mood disorder characterized by persistent sadness, loss of interest in activities, changes in sleep and appetite, and feelings of worthlessness. It can affect daily life and functioning. Depression is a mood disorder that goes beyond normal feelings of sadness. It involves persistent low mood, loss of interest or pleasure in activities once enjoyed, changes in sleep patterns (either excessive sleep or insomnia), changes in appetite (either overeating or loss of appetite), low energy, feelings of worthlessness or excessive guilt, difficulty concentrating, and even thoughts of death or suicide.</p>
+
+</body>
+
+</html>
