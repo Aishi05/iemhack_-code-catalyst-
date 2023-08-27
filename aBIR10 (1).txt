@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<titile></title>
+<link rel="stylesheet" type ="text/css"href="styles.css">
+</head>
+<body bgcolor= "INDIGO", Text="VIOLET">
+<header>
+<H1><b><u>EATINGDisorder</u></u></h1>
+<p> Eating Disorders Includes anorexia nervosa (severe food restriction), bulimia nervosa (binge-eating followed by purging), and binge-eating disorder (recurring episodes of overeating).</p>
+</body>
+<html>
