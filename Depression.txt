@@ -1,2 +1,14 @@
-Depression
-Persistent low mood, lack of interest or pleasure in activities, changes in sleep and appetite, feelings of worthlessness or guilt.
+<!DOCTYPE html>
+<html>
+<head>
+<titile></title>
+<link rel="stylesheet" type ="text/css"href="styles.css">
+</head>
+<body bgcolor="blue", Text="white">
+<header>
+<h1><b><u>Depression</b></u></h1>
+</header>
+<p>Persistent low mood, lack of interest or pleasure in activities, changes in sleep and appetite, feelings of worthlessness or guilt.</p>
+</body>
+</html>
+
