@@ -1,12 +1,27 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
+
 <titile></title>
+
 <link rel="stylesheet" type ="text/css"href="styles.css">
+
 </head>
 <body bgcolor= "cyan", Text="green">
+
 <header>
+
+</header>
 <H1><b><u>Boderline Personality Disorder</b></u></h1>
-<p>Borderline Personality Disorder (BPD):* Marked by unstable relationships, self-image, and emotions, often involving impulsive and self-destructive behaviors. </p>
+<Img src="Abir9.jpg">
+</Img>
+
+
+<p>Borderline Personality Disorder (BPD):* Marked by unstable relationships, self-image, and emotions, often involving impulsive and self-destructive behaviors.)causes instability in relationships, self-image, and emotions. Impulsive behavior and intense fear of abandonment are common.BPD is characterized by unstable relationships, self-image, and emotions. Individuals might experience intense episodes of anger, depression, and anxiety that can last hours to days. Impulsivity, self-harm, and a fear of abandonment are common.
+ </p>
+
 </body>
+
 <html>
