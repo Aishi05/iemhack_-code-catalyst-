@@ -1,12 +1,26 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
+
 <titile></title>
+
 <link rel="stylesheet" type ="text/css"href="styles.css">
+
 </head>
+
 <body bgcolor= "INDIGO", Text="VIOLET">
+
 <header>
-<H1><b><u>EATINGDisorder</u></u></h1>
-<p> Eating Disorders Includes anorexia nervosa (severe food restriction), bulimia nervosa (binge-eating followed by purging), and binge-eating disorder (recurring episodes of overeating).</p>
+
+<H1><b><u>EATING Disorder</u></u></h1>
+<Img src="Abir8.jpg">
+</Img>
+
+
+<p> Eating Disorders Includes anorexia nervosa (severe food restriction), bulimia nervosa (binge-eating followed by purging), and binge-eating disorder (recurring episodes of overeating).Anorexia nervosa involves an intense fear of gaining weight, leading to severe food restriction and low body weight. Bulimia nervosa includes cycles of binge-eating followed by compensatory behaviors like vomiting or excessive exercise. Binge-eating disorder involves recurrent episodes of overeating without compensatory behaviors.:* Anorexia nervosa involves severe food restriction and distorted body image. Bulimia nervosa includes binge-eating followed by purging behaviors. Binge-eating disorder involves frequent overeating.
+
+</p>
 </body>
 <html>
