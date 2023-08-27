@@ -1,12 +1,26 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
+
 <titile></title>
+
 <link rel="stylesheet" type ="text/css"href="styles.css">
+
 </head>
 <body bgcolor= "Grey", Text="cyan">
+
 <header>
+
 <H1><b><u>Attention-Deficit/Hyperactivity Disorder</u></u></h1>
-<p> Attention-Deficit/Hyperactivity Disorder (ADHD):* Characterized by inattention, hyperactivity, and impulsivity, often diagnosed in childhood.</p>
+<Img src="Abir7.jpg">
+</Img>
+
+
+<p> Attention-Deficit/Hyperactivity Disorder (ADHD):* Characterized by inattention, hyperactivity, and impulsivity, often diagnosed in childhood.ADHD involves difficulty sustaining attention, hyperactivity, and impulsivity. It often starts in childhood and can impact school or work performance.ADHD involves difficulties with attention, hyperactivity, and impulsivity. Children and adults with ADHD struggle to focus, follow through on tasks, and control impulses, which can impact academic and work performance
+</p>
+
 </body>
+
 <html>
