@@ -1,22 +1,40 @@
 <!DOCTYPE html>
 <html>
+
 <head>
+
 <titile></title>
+
 <link rel="stylesheet" type ="text/css"href="styles.css">
+
 </head>
+
 <body bgcolor="cyan", Text="pink">
+
 <H1>Problems<H1>
 <header>
 </header>
+
 <li><a href="Abir3.html"><u>Depression</u></a>
+
 <li><a href="Abir4.html"><u>Anxiety Disorders</u></a>
+
 <li><a href="Abir5.html"><u>Bipolar disorder</u></a>
+
 <li><a href="Abir6.html"><u>schizophrenia</u></a>
+
 <li><a href="Abir7.html"><u>Obsessive-compulsive disorder</u></a>
+
 <li><a href="Abir8.html"><u>Post traumatic stress disorder</u></a>
+
 <li><a href="Abir9.html"><u>Attention-Deficit/Hyperactivity disorder</u></a>
-<li><a href="Abir10.html"><u>Eating Disorders</u></a>
-<li><a href="Abir11.html"><u>Boderline personality disorder</u></a>
-<li><a href="Abir.html"><u>Autism spectrum Disorder</u></a>
+
+<li><a href="Abir11.html"><u>Eating Disorders</u></a>
+
+<li><a href="Abir12.html"><u>Boderline personality disorder</u></a>
+
+<li><a href="Abir13.html"><u>Autism spectrum Disorder</u></a>
+
 </body>
+
 </html>
