@@ -1,2 +1,12 @@
-Schizophrenia
-Involves periods of depression and periods of mania or elevated mood, often accompanied by impulsive behavior.
+<!DOCTYPE html>
+<html>
+<head>
+<titile></title>
+<link rel="stylesheet" type ="text/css"href="styles.css">
+</head>
+<body bgcolor= "Blue", Text="black">
+<header>
+<H1><b><u>Schizophrenia</u></u></h1>
+<p> Involves periods of depression and periods of mania or elevated mood, often accompanied by impulsive behavior.</p>
+</body>
+</html>
