@@ -1,12 +1,25 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
+
 <titile></title>
+
 <link rel="stylesheet" type ="text/css"href="styles.css">
+
 </head>
 <body bgcolor= "Orange", Text="white">
+
 <header>
+
 <H1><b><u>Post-Traumatic Disorder</u></u></h1>
-<p>  Results from experiencing or witnessing traumatic events, leading to flashbacks, nightmares, and severe anxiety.</p>
+<Img src="Abir6.jpg">
+</Img>
+
+
+<p>  Results from experiencing or witnessing traumatic events, leading to flashbacks, nightmares, and severe anxiety.PTSD results from traumatic events. It leads to reliving the trauma (flashbacks), nightmares, avoiding triggers, and heightened arousal.PTSD develops after exposure to a traumatic event. Symptoms include intrusive memories (flashbacks), nightmares, avoidance of reminders of the trauma, negative changes in mood and thinking, and heightened arousal (feeling on edge).</p>
+
 </body>
+
 <html>
