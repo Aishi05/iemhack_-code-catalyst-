@@ -1,4 +1,31 @@
 <!DOCTYPE html>
+
+<html>
+
+<head>
+
+<titile></title>
+
+<link rel="stylesheet" type ="text/css"href="styles.css">
+
+</head>
+
+<body bgcolor= "Blue", Text="black">
+
+<header>
+<H1><b><u>Schizophrenia</u></u></h1>
+<Img src="Abir4.jpg">
+</Img>
+
+<p> Involves periods of depression and periods of mania or elevated mood, often accompanied by impulsive behavior.Schizophrenia causes distorted thinking, hallucinations (hearing or seeing things that aren't there), delusions (false beliefs), and difficulties with social interactions. lack of motivation Schizophrenia is a severe mental disorder that affects thinking, emotions, and behavior. Symptoms include hallucinations (perceiving things that aren't real, often auditory), delusions (false beliefs), disorganized thinking and speech, and impaired social functioning.
+
+
+
+</p>
+
+</body>
+
+</html><!DOCTYPE html>
 <html>
 <head>
 <titile></title>
