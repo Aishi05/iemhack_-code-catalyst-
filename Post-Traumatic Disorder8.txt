@@ -1,2 +1,12 @@
-Post-Traumatic Disorder
-Results from experiencing or witnessing traumatic events, leading to flashbacks, nightmares, and severe anxiety.
+<!DOCTYPE html>
+<html>
+<head>
+<titile></title>
+<link rel="stylesheet" type ="text/css"href="styles.css">
+</head>
+<body bgcolor= "Orange", Text="white">
+<header>
+<H1><b><u>Post-Traumatic Disorder</u></u></h1>
+<p>  Results from experiencing or witnessing traumatic events, leading to flashbacks, nightmares, and severe anxiety.</p>
+</body>
+<html>
