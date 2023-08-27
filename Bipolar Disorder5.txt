@@ -1,2 +1,13 @@
-Bipolar Disorder
-Involves periods of depression and periods of mania or elevated mood, often accompanied by impulsive behavior
+<!DOCTYPE html>
+<html>
+<head>
+<titile></title>
+<link rel="stylesheet" type ="text/css"href="styles.css">
+</head>
+<body bgcolor="Black", Text="grey">
+<header>
+<h1><b><u>Bipolar Disorder</b></u></h1>
+</header>
+<p> Involves periods of depression and periods of mania or elevated mood, often accompanied by impulsive behavior</p>
+</body>
+</html>
