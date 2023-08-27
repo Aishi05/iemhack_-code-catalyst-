@@ -7,7 +7,7 @@
 <body>
     <header>
         <h1>MADD(Mixed Anxiety Depression Disorder)</h1>
-<Img src="aishi.jpeg">
+<Img src="C:\Users\abhir\Downloads\MADD.COM.jpg">
 </Img>
     </header>
     <nav>
